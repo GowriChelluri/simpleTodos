@@ -1,0 +1,19 @@
+.items-container {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.title {
+  font-size: 15px;
+}
+.btn {
+  height: 20px;
+  width: 60px;
+  padding: 2px;
+  border-radius: 5px;
+  border: 1px solid #ff0b37;
+  color: #ff0b37;
+  background-color: transparent;
+  margin-left: 15px;
+}

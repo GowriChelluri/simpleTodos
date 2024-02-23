@@ -1,0 +1,26 @@
+.bg-container {
+  background-color: #ffc2a0;
+  border: 2px solid #ff8542;
+  min-height: 100vh;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  min-height: 200px;
+  width: 900px;
+  border-radius: 10px;
+  background-color: white;
+  margin: 30px;
+}
+
+.heading {
+  font-size: 40px;
+  color: #ff8542;
+  font-weight: bold;
+}
